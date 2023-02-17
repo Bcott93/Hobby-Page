@@ -1,5 +1,5 @@
 # Hobby-Page - Founders & Coders
-As part of my application to join the Founders & Coders apprentaship, I have created a hobby page.
+As part of my application to join the Founders & Coders apprenticeship, I have created a hobby page.
 
 ## The Goal
 
